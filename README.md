@@ -1,2 +1,2 @@
 # PlaywrightFramework
-Playwright with typescript framework
+Playwright with typescript framework Page Object Model Framework
